@@ -3,12 +3,12 @@
 <p align="center">
     <img width="200" src="https://pa1.narvii.com/5861/65e81a76cad5ff55d87985db78a54e575a5e6de5_hq.gif">
 </p>
-<h1 align="center"><b>Hi , I'm Abdul Jessec Zuleta </b><img src="https://media1.tenor.com/images/78f4ba22ee6ba5f15c92bec8d183aeb2/tenor.gif?itemid=5526217" width="100"></h1>
+<h1 align="center"><b>Hi , I'm  Jessec Zuleta </b><img src="https://media1.tenor.com/images/78f4ba22ee6ba5f15c92bec8d183aeb2/tenor.gif?itemid=5526217" width="100"></h1>
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=/jessec01
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
 <div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
