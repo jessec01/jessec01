@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on  Soy Estudiante
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning R, Ruby y Node
   
 - 👯 I’m looking to collaborate on Proyectos
   
