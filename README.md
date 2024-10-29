@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media1.tenor.com/images/78f4ba22ee6ba5f15c92bec8d183aeb2/tenor.gif?itemid=5526217" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media1.tenor.com/images/78f4ba22ee6ba5f15c92bec8d183aeb2/tenor.gif?itemid=5526217" width="100"></h1>
 <!--
 **jessec01/jessec01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
