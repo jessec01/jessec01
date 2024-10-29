@@ -9,7 +9,7 @@
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=/jessec01
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/jessec01?label=Follow&style=social)](https://github.com/jessec01)
 
 <div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
