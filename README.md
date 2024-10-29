@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://www.fibonation.com/assets/img/blog/2020/04/15/439/mejores-novelas-visuales-ios-android.jpg" />
+<img width="40%" align="right" alt="Github" src="https://www.fibonation.com/assets/img/blog/2020/04/15/439/mejores-novelas-visuales-ios-android.jpg" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
