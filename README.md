@@ -11,7 +11,7 @@
 <div size='20px'> Higher Technician in Computer Science :computer:
 </div>
 
-<h2> About Me <img src="https://media.licdn.com/dms/image/v2/C4E22AQHalKLYeo66Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1617927536838?e=2147483647&v=beta&t=W5jgq2FfE4qDsKHlOhB3IuErFnPCbBOPkmABKOyFdkA" width="100"></h2>
+<h2> About Me </h2>
 
 # ¡Hi, I am Gregory Perozo! 👋 
 
