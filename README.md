@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media.licdn.com/dms/image/v2/C4E22AQHalKLYeo66Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1617927536838?e=2147483647&v=beta&t=W5jgq2FfE4qDsKHlOhB3IuErFnPCbBOPkmABKOyFdkA" width = 100px></h2>
 
 <img width="50%" align="right" alt="Github" src="https://www.fibonation.com/assets/img/blog/2020/04/15/439/mejores-novelas-visuales-ios-android.jpg" />
 
