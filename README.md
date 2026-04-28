@@ -3,7 +3,7 @@
 <p align="center">
     <img width="200" src="https://pa1.narvii.com/5861/65e81a76cad5ff55d87985db78a54e575a5e6de5_hq.gif">
 </p>
-<h1 align="center"><b>Hi , I'm  Jessec Zuleta </b><img src="https://cdn.prod.website-files.com/63b2df0385d8d855b14ef787/63e9cd27c21faa1de5d719fc_output-onlinegiftools%20(25)%201.gif" width="300"></h1>
+<h1 align="center"><b>Hi , I'm  Gregory Perozo</b><img src="https://cdn.prod.website-files.com/63b2df0385d8d855b14ef787/63e9cd27c21faa1de5d719fc_output-onlinegiftools%20(25)%201.gif" width="300"></h1>
 <p align='center'>
 </p>
 
