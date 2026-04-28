@@ -23,16 +23,14 @@
 
 <img width="50%" align="right" alt="Github" src="https://www.fibonation.com/assets/img/blog/2020/04/15/439/mejores-novelas-visuales-ios-android.jpg" />
 
-- 🔭 I’m currently working on  Soy Estudiante y Profesor de Matematica
+- 🔭 **I work as:** A personalized programming class tutor.
   
-- 🌱 I’m currently learning R, Ruby y Node
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Java, JavaScript, Pythom, C/C++,Ruby y R
-  
-- ⚡ Fun fact: Me gusta el anime y los videjuegos.
-
+- 🌱 **I’m currently learning:** Power BI and FastAPI.
+- 
+- 💬 **Ask me about:** Python and SQL.
+- 
+- ⚡ **Fun fact:** I love developing visual novels and I represent Project Nightly LA.
+- 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
