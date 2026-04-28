@@ -13,11 +13,11 @@
 
 <h2> About Me <img src="https://media.licdn.com/dms/image/v2/C4E22AQHalKLYeo66Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1617927536838?e=2147483647&v=beta&t=W5jgq2FfE4qDsKHlOhB3IuErFnPCbBOPkmABKOyFdkA" width="100"></h2>
 
-# ¡Hola, soy Gregory Perozo! 👋 
+# ¡Hi, I am Gregory Perozo! 👋 
 
-**Estudiante de Licenciatura en Computación | Investigador | Pensador Pragmático** Soy un apasionado por descubrir cómo funciona el proceso de crear infraestructura para procesar diferentes datos. Disfruto profundamente el proceso de investigación y creo firmemente en el poder de la comunidad y el código abierto. 
+**Bachelor's Degree Student in Computer Science | Researcher | Pragmatic Thinker** I am passionate about discovering how the process of creating infrastructure to process different data works. I deeply enjoy the research process and firmly believe in the power of community and open source. 
 
-> "La programación no es un juego de suma cero. Enseñar algo a un compañero programador no te lo quita a ti. Estoy encantado de compartir lo que puedo, porque lo hago por amor a la programación." 
+> "Programming is not a zero-sum game. Teaching something to a fellow programmer does not take it away from you. I am happy to share what I can, because I do it for the love of programming." 
 > 
 > — **John Carmack**
 
