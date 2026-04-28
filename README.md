@@ -36,7 +36,7 @@
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img width="32px" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI">
+    <img width="32px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI">
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img width="32px" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI">
