@@ -21,7 +21,7 @@
 > 
 > — **John Carmack**
 
-<img width="50%" align="right" alt="Github" src="https://www.fibonation.com/assets/img/blog/2020/04/15/439/mejores-novelas-visuales-ios-android.jpg" />
+
 
 - 🔭 **I work as:** A personalized programming class tutor.
   
