@@ -11,9 +11,15 @@
 <div size='20px'> Tecnico superior Superior en informatica :computer:
 </div>
 
-<h2> About Me <img src = "https://media.licdn.com/dms/image/v2/C4E22AQHalKLYeo66Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1617927536838?e=2147483647&v=beta&t=W5jgq2FfE4qDsKHlOhB3IuErFnPCbBOPkmABKOyFdkA" width = 100px></h2>
-# ¡Hola, soy Gregory Perozo! 👋 **Estudiante de Licenciatura en Computación | Investigador | Pensador Pragmático** Soy un apasionado por descubrir cómo funciona el proceso de crear infraestructura para procesar diferentes datos. Disfruto profundamente el proceso de investigación y creo firmemente en el poder de la comunidad y el código abierto. > "La programación no es un juego de suma cero. Enseñar algo a un compañero programador no te lo quita a ti. Estoy encantado de compartir lo que puedo, porque lo hago por amor a la programación." > > — **John Carmack** 
-   
+<h2> About Me <img src="https://media.licdn.com/dms/image/v2/C4E22AQHalKLYeo66Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1617927536838?e=2147483647&v=beta&t=W5jgq2FfE4qDsKHlOhB3IuErFnPCbBOPkmABKOyFdkA" width="100"></h2>
+
+# ¡Hola, soy Gregory Perozo! 👋 
+
+**Estudiante de Licenciatura en Computación | Investigador | Pensador Pragmático** Soy un apasionado por descubrir cómo funciona el proceso de crear infraestructura para procesar diferentes datos. Disfruto profundamente el proceso de investigación y creo firmemente en el poder de la comunidad y el código abierto. 
+
+> "La programación no es un juego de suma cero. Enseñar algo a un compañero programador no te lo quita a ti. Estoy encantado de compartir lo que puedo, porque lo hago por amor a la programación." 
+> 
+> — **John Carmack**
 
 <img width="50%" align="right" alt="Github" src="https://www.fibonation.com/assets/img/blog/2020/04/15/439/mejores-novelas-visuales-ios-android.jpg" />
 
